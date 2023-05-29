@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JanetaToncheva
 - 👀 I’m interested in Python programming and Data Science
-- 🌱 I’m currently learning 100 Days of Code with Python
 - 📫 How to reach me: janeta.toncheva@gmail.com
 
 <!---
