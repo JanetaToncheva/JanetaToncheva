@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JanetaToncheva
-- 👀 I’m interested in Python programming and Data Science
 - 📫 How to reach me: janeta.toncheva@gmail.com
 
 <!---
